@@ -6,7 +6,15 @@
 
 1.1. Objetivo General.
 
+Analizar, desarrollar e implementar conocimientos tanto matematicos como programables para las respectivas operaciones que se nos lleguen a presentar en el informe con ello tendremos una justificación de lo que haremos. 
+
 1.2. Objetivos Especificos.
+
+- Explicar como se transforma una coordenada polar a rectangular y viceversa
+
+- Desarrollar las respectivas operaciones matematicas aplicando los conocimientos aritmeticos que tengamos.
+
+- Justificar toda respuesta que logremos obtener por medio de una herramienta tecnologica.
 
 2. MARCO TEORICO
  
@@ -141,11 +149,21 @@ j = 45sen(-117.9°) = -j39.76
 
 5. VIDEO DE YOUTUBE
 
+https://youtu.be/aS64llnMy5U
+
 6. CONCLUSIONES
+
+- Se logro explicar de la mejor forma como se transforma una coordenada polar a rectangular y viceversa
+
+- Con gran exito se logro desarrollar las respectivas operaciones matematicas aplicando los conocimientos aritmeticos que obtuvimos a lo largo de una explicacion dada por el docente.
+
+- Al final se logro justificar toda coversion que logremos obtener por medio de una calculadora cientifica.
 
 7. BIBLIOGRAFIA
 
+- Capitulo 7 - Fundamentos de Circuitos Electricos
 
+- EMULADORES CASIO
 
-
+- Cuaderno Electrotecnia III
 
