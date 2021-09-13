@@ -15,10 +15,8 @@ Analizar, desarrollar e implementar conocimientos tanto matematicos como program
 - Desarrollar las respectivas operaciones matematicas aplicando los conocimientos aritmeticos que tengamos.
 
 - Justificar toda respuesta que logremos obtener por medio de una herramienta tecnologica.
-
-2. MARCO TEORICO
  
-3. EXPLICACION DEL PROCEDIMIENTO
+3. EXPLICACION DEL PROCEDIMIENTO y MARCO TEORICO
 
 3.1. Abrir la Guia metodologica propuesta por el docente a cargo donde este ubicada la practica numero 9.
 
