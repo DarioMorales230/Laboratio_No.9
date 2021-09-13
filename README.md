@@ -147,6 +147,51 @@ j = 45sen(-117.9°) = -j39.76
 ![image](https://user-images.githubusercontent.com/85144847/133090740-d56f8a52-8ba8-4236-b4a2-919bd5f4ee24.png)
 ![image](https://user-images.githubusercontent.com/85144847/133090766-9fd54d60-0536-4514-bf80-88d66ae7b82d.png)
 
+4.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en suforma rectangular como en su forma polar.
+
+a)
+
+![image](https://user-images.githubusercontent.com/85144847/133103988-d2e848d5-1d64-4c7c-89d0-c640a7a0ad5c.png)
+
+- Desarrollo:
+
+***Operaciones de rectangular a polar:***
+
+![image](https://user-images.githubusercontent.com/85144847/133103414-a34a7189-466a-4cd5-b6f6-76a004caa376.png)
+![image](https://user-images.githubusercontent.com/85144847/133103466-b99fd78e-8738-423c-907a-54ab8095454a.png)
+![image](https://user-images.githubusercontent.com/85144847/133103490-292081a8-aafd-4bc2-bada-f9a5457482d9.png)
+
+***Tendremos:***
+
+![image](https://user-images.githubusercontent.com/85144847/133103602-7666f71a-62b1-4539-9e75-be951060d7b0.png)
+
+**- Comprobacion Calculadora:**
+
+![image](https://user-images.githubusercontent.com/85144847/133103753-69b4676a-21ae-4fd2-99eb-33a7f182cf84.png)
+![image](https://user-images.githubusercontent.com/85144847/133103821-f6709af6-8a86-45d1-b1be-5d78adde54a8.png)
+
+b) 
+
+![image](https://user-images.githubusercontent.com/85144847/133103936-916c97f5-535a-45ea-ae3e-85a87e8029f8.png)
+
+***-	Operaciones rectangulares a polar:***
+
+![image](https://user-images.githubusercontent.com/85144847/133105843-6bfb9345-8f18-4670-bd4a-1deb058476f5.png)
+
+***- Operaciones de polar a rectangular:***
+
+![image](https://user-images.githubusercontent.com/85144847/133105911-27b953a5-13f9-4ad6-bc99-07afeee6970e.png)
+
+- ***Tenemos:***
+
+![image](https://user-images.githubusercontent.com/85144847/133106129-34b94cc2-35e0-4ea1-91fe-8f33328ea984.png)
+
+- **Comprobacion Calculadora:**
+
+![image](https://user-images.githubusercontent.com/85144847/133106383-e837bb55-b880-4700-beee-4e3b0d8d9a81.png)
+![image](https://user-images.githubusercontent.com/85144847/133106421-613b9c61-7056-4a57-80aa-fe817c836b6a.png)
+
+
 5. VIDEO DE YOUTUBE
 
 https://youtu.be/aS64llnMy5U
