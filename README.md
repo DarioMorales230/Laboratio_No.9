@@ -16,7 +16,11 @@ Analizar, desarrollar e implementar conocimientos tanto matematicos como program
 
 - Justificar toda respuesta que logremos obtener por medio de una herramienta tecnologica.
  
-3. EXPLICACION DEL PROCEDIMIENTO y MARCO TEORICO
+ 2. MARCO TEORICO
+
+ ![image](https://user-images.githubusercontent.com/85144847/133113502-66786a92-6c2e-45f8-b103-5c451ea13a62.png)
+
+3. EXPLICACION DEL PROCEDIMIENTO
 
 3.1. Abrir la Guia metodologica propuesta por el docente a cargo donde este ubicada la practica numero 9.
 
@@ -63,7 +67,7 @@ Analizar, desarrollar e implementar conocimientos tanto matematicos como program
 ![image](https://user-images.githubusercontent.com/85144847/133088352-f69e0415-417d-43a0-9751-fb5b8155d4b8.png)
 ![image](https://user-images.githubusercontent.com/85144847/133088386-4cecea12-40fb-46e7-a42a-28dc27335715.png)
 
-**b) -8 + 6.2 j = _____**
+**b) 8 + 6.2 j = _____**
 
 ![image](https://user-images.githubusercontent.com/85144847/133089630-7b4f29fb-ffe8-4877-a7ae-abbaee53903d.png)
 
@@ -163,49 +167,53 @@ a)
 
 ![image](https://user-images.githubusercontent.com/85144847/133103602-7666f71a-62b1-4539-9e75-be951060d7b0.png)
 
--** Comprobacion con Calculadora:**
+ **Comprobacion con Calculadora:**
 
 ![image](https://user-images.githubusercontent.com/85144847/133103753-69b4676a-21ae-4fd2-99eb-33a7f182cf84.png)
 ![image](https://user-images.githubusercontent.com/85144847/133103821-f6709af6-8a86-45d1-b1be-5d78adde54a8.png)
 
 b) 
 
+- Desarrollo:
+
 ![image](https://user-images.githubusercontent.com/85144847/133103936-916c97f5-535a-45ea-ae3e-85a87e8029f8.png)
 
-***-	Operaciones rectangulares a polar:***
+ ***Operaciones rectangulares a polar:***
 
 ![image](https://user-images.githubusercontent.com/85144847/133105843-6bfb9345-8f18-4670-bd4a-1deb058476f5.png)
 
-***- Operaciones de polar a rectangular:***
+ ***Operaciones de polar a rectangular:***
 
 ![image](https://user-images.githubusercontent.com/85144847/133105911-27b953a5-13f9-4ad6-bc99-07afeee6970e.png)
 
-- ***Tenemos:***
+***Tenemos:***
 
 ![image](https://user-images.githubusercontent.com/85144847/133106129-34b94cc2-35e0-4ea1-91fe-8f33328ea984.png)
 
-- **Comprobacion con Calculadora:**
+**Comprobacion con Calculadora:**
 
 ![image](https://user-images.githubusercontent.com/85144847/133106383-e837bb55-b880-4700-beee-4e3b0d8d9a81.png)
 ![image](https://user-images.githubusercontent.com/85144847/133106421-613b9c61-7056-4a57-80aa-fe817c836b6a.png)
 
 c) 
 
+- Desarrollo:
+
 ![image](https://user-images.githubusercontent.com/85144847/133109259-672cb70c-a453-488d-a7eb-dcf260138b20.png)
 
--	***Conversiones de rectangular a polar:***
+***Conversiones de rectangular a polar:***
 
 ![image](https://user-images.githubusercontent.com/85144847/133109369-f0e63f2f-d8a3-4133-9a6a-ba6ba06023c8.png)
 
--	***Conversiones de polar a rectangular:***
+***Conversiones de polar a rectangular:***
 
 ![image](https://user-images.githubusercontent.com/85144847/133109462-fe5b2c34-f24b-4114-8937-f42e1cff2130.png)
 
-- ***Tenemos:***
+***Tenemos:***
 
 ![image](https://user-images.githubusercontent.com/85144847/133112196-76a6f8dc-3208-475b-a3c3-686ea225682e.png)
 
-- **Comprobacion con Calculadora**
+ **Comprobacion con Calculadora**
 
 ![image](https://user-images.githubusercontent.com/85144847/133112638-5fa26427-0f39-49d4-971c-9143074dd743.png)
 ![image](https://user-images.githubusercontent.com/85144847/133112533-562730c2-c38f-4586-8818-a9345cb17a66.png)
